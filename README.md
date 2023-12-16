@@ -1,2 +1,2 @@
-# anistream
+# rizastream
  Lightweight Anime Streaming Site
